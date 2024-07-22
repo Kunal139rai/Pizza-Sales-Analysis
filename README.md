@@ -50,7 +50,7 @@ Insights Generated
 • Out of total 21350 orders placed while a total of 18526 orders where placed for "L" sized pizza (86.77% of total orders placed), while only 28 orders were placed for "XXL" sized pizzas (0.13% of total orders placed). So, either the "XXL" size should be dropped off or else it should be given in combo offers during the lunch hours between 1 to 3 pm to increase its sales
 
                       
-                       Queries Of SQL:
+  Queries Of SQL:
 Basic:
 
 1. Retrieve the total number of orders placed.
@@ -74,7 +74,7 @@ Advanced:
 2. Analyze the cumulative revenue generated over time.
 3. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-                       Queries Of PowerBI:
+    Queries Of PowerBI:
                        
 1. Create a measure of total revenue
 2. Create a measure of total no of orders
